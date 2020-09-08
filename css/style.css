@@ -799,7 +799,7 @@ ul li{
     color:#FFFFFF;
     text-transform:uppercase;
 }
-.logo__link::after{
+.logo__footer-link::after{
     content:"";
     display:block;
     margin-left:640px;
